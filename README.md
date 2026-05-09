@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raghavraman.com/img/face5.png" width="120" alt="Raghav Raman" />
 
   # Raghav Raman
 
