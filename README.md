@@ -2,6 +2,8 @@
 <tr>
 <td valign="top" width="40%">
 
+<img src="https://raghavraman.com/img/face5.png" width="80" align="left" style="margin-right:16px" alt="Raghav" />
+
 ## Raghav Raman
 
 **Staff Software Engineer**
@@ -12,7 +14,6 @@ Data · Ads · Automation
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](http://linkedin.raghavraman.com)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/RghvRaman)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://raghavraman.com)
-[![Resume](https://img.shields.io/badge/Resume-453886?style=flat&logo=readme&logoColor=white)](http://cv.raghavraman.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rghv.raman@gmail.com)
 
 </td>
