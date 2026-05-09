@@ -60,8 +60,7 @@ Observability Datadog · GitHub Actions · Jenkins · LaunchDarkly
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghavraman&show_icons=true&hide_border=true&theme=default&hide_title=true&count_private=true" height="130" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavraman&layout=compact&hide_border=true&theme=default" height="130" alt="Top languages" />
+  <img src="https://komarev.com/ghpvc/?username=raghavraman&style=flat&color=453886" alt="Profile views" />
 </div>
 
 ---
