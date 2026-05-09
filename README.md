@@ -43,30 +43,6 @@ Observability Datadog · GitHub Actions · Jenkins · LaunchDarkly
 
 ---
 
-### 🗺 Career Timeline
-
-| Year | Company | Role |
-|------|---------|------|
-| 2023 | **Ibotta** | Staff Software Engineer |
-| 2021 | **Ibotta** | Senior Software Engineer |
-| 2018 | **CoverMyMeds** | Software Engineer |
-| 2016 | **Zarget** | Full-Stack Developer |
-
----
-
-### 🎮 Side Quests
-
-| Project | Description |
-|---------|------------|
-| [OpsFactory](https://opsfactory.lovable.app) | POC: AI-powered ops tooling to automate engineering workflows |
-| [GotDibs](https://gotdibs.vercel.app) | Check username availability across social platforms |
-| [Zoonest](https://zoonest.com) | Multi-trading analytics platform (Alpha UI/UX) |
-| [Thrift](https://chrome.google.com/webstore/detail/thrift/gbdfljkgbpancgkpondhjpjmmjefkigh) | Browser extension to maximize credit card rewards |
-| [Point](https://pointapp.org) | Chrome extension for non-profits to build needs registries |
-| [Rekho](https://github.com/raghavraman/recho-chrome-extension) | Listen to articles offline — Hackathon runner-up |
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=raghavraman&style=flat&color=453886" alt="Profile views" />
   <br/><sub>Built with ❤️ · <a href="https://raghavraman.com">raghavraman.com</a></sub>
