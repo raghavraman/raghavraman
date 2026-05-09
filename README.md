@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raghavraman.com/img/profile_pic.jpeg" width="120" style="border-radius:50%" alt="Raghav Raman" />
+  <img src="https://raghavraman.com/img/face5.png" width="120" alt="Raghav Raman" />
 
   # Raghav Raman
 
